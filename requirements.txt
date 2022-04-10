@@ -1,0 +1,10 @@
+lightgbm
+matplotlib
+numpy
+optbinning==0.13.1
+pandas
+scikit-learn
+scipy
+scorecardpy==0.1.9.2
+seaborn
+statsmodels==0.12.2
